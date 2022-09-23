@@ -21,7 +21,7 @@ mass index and smoking status and stroke chances”. Here by fitting the data wi
 + hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
 + heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
 + ever_married: "No" or "Yes"
-+ work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
++ work_type: "children", "Govt_job", "Never_worked", "Private" or "Self-employed"
 + Residence_type: "Rural" or "Urban"
 + avg_glucose_level: average glucose level in blood
 + bmi: body mass index
