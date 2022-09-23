@@ -9,5 +9,5 @@ parameters like gender, age, various diseases, and smoking status. Each row in t
 relevant information about the patient.**
 
 # Dataset Description
-As we planned to work on a human stroke predictor, our data set was to predict stroke based on 5110 entries of patients having 10 columns of data they have provided carrying “id, gender, age, hypertension, marital status, work type, residence type, average glucose level, body
-mass index and smoking status and stroke chances”. Here if we fit the data with label and feature according to the information, here stroke column(L) will be counted as label and Column B to K will be considered as feature.
+As this work is based on a human stroke predictor, the data set was to predict stroke based on 5110 entries of patients having 10 columns of data they have provided carrying “id, gender, age, hypertension, marital status, work type, residence type, average glucose level, body
+mass index and smoking status and stroke chances”. Here by fitting the data with label and feature according to the information, here stroke column(L) will be counted as label and Column B to K will be considered as feature.
