@@ -27,3 +27,5 @@ mass index and smoking status and stroke chances”. Here by fitting the data wi
 + bmi: body mass index
 + smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 + stroke: 1 if the patient had a stroke or 0 if not *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+
+# Data Preprocessing Techniques Applied
