@@ -29,4 +29,4 @@ mass index and smoking status and stroke chances”. Here by fitting the data wi
 + stroke: 1 if the patient had a stroke or 0 if not *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 
 # Data Preprocessing Techniques Applied
-After shaping the dataset finding 5110 entries with 11 columns, and identified the null numbers by checking the column wise information.
+After shaping the dataset finding 5110 entries with 11 columns, and identified the null numbers by checking the column wise information. Used Panda Libraries.
